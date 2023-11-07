@@ -1,2 +1,2 @@
 # BDCOE_final_task
-ML task
+# Dog vs Cat classification
